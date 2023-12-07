@@ -1,0 +1,16 @@
+{
+    "name": "To Do",
+    "version": "1.0.0",
+    "description": "keep track of hings to do",
+    "manifest_version": 3,
+    "author": "Robert Lucas",
+    "permissions" : [
+        "sidePanel"
+    ],
+    "side_panel" :{
+        "default_path" : "index.html"
+    },
+    "action":{
+        "default_title" : "Click to open Panel"
+    }
+}
